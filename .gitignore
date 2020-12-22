@@ -1,0 +1,11 @@
+# Virtual environments
+/venv/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Data
+notebooks/Banana
+notebooks/Banana.zip
+notebooks/Saint-Papoul
+notebooks/Saint-Papoul.zip

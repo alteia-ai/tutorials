@@ -10,6 +10,7 @@ The tutorials are in the form of [Jupyter notebooks](https://jupyter.org/). They
 --------------------------- | ------------------------- | --------------------
 **Getting started**         | [![Render](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/alteia-ai/tutorials/blob/master/notebooks/getting_started.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alteia-ai/tutorials/master?filepath=notebooks%2Fgetting_started.ipynb)
 **Share map tiles**         | [![Render](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/alteia-ai/tutorials/blob/master/notebooks/share_map_tiles.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alteia-ai/tutorials/master?filepath=notebooks%2Fshare_map_tiles.ipynb)
+**Share map tiles with several datasets**         | [![Render](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/alteia-ai/tutorials/blob/master/notebooks/share_map_tiles_with_several_datasets.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alteia-ai/tutorials/master?filepath=notebooks%share_map_tiles_with_several_datasets.ipynb)
 
 
 ### Execute on your PC

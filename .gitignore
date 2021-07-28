@@ -1,11 +1,12 @@
 # Virtual environments
 /venv/
+/env/
 
 # Jupyter
 *.ipynb_checkpoints
 
 # Data
-notebooks/Banana
-notebooks/Banana.zip
-notebooks/Saint-Papoul
-notebooks/Saint-Papoul.zip
+/notebooks/*.zip
+/notebooks/Saint-Papoul/
+/notebooks/Banana/
+/notebooks/Split-orthomosaic/

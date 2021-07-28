@@ -1,5 +1,4 @@
 alteia
 folium
-arcgis
 shapely
 pyproj

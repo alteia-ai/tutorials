@@ -2,3 +2,4 @@ alteia
 folium
 shapely
 pyproj
+jupyter
